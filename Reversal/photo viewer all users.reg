@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Applications\photoviewer.dll\shell\open]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations]
+".bmp"=-
+".gif"=-
+".ico"=-
+".jpe"=-
+".jpeg"=-
+".jpg"=-
+".png"=-

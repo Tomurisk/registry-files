@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Replace the file extension
+[-HKEY_CURRENT_USER\Software\Classes\.dat]
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dat]

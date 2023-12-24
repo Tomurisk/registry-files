@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\CMD here]
+"Icon"="%SystemRoot%\\System32\\cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\CMD here\command]
+@="cmd.exe /s /k pushd \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CMD here]
+"Icon"="%SystemRoot%\\System32\\cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CMD here\command]
+@="cmd.exe /s /k pushd \"%V\""
