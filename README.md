@@ -1,0 +1,1 @@
+Registry files of **Reversal** follow the same naming as the registry files in the parent directory

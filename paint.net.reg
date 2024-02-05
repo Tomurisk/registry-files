@@ -7,7 +7,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\image\Shell]
 
 [HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\image\Shell\Open with paint.net]
-"Icon"="C:\\Users\\User\\Programs\\paint.net\\paintdotnet.exe"
+"Icon"="C:\\Users\\User\\scoop\\apps\\paint.net\\current\\paintdotnet.exe"
 
 [HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\image\Shell\Open with paint.net\command]
-@="C:\\Users\\User\\Programs\\paint.net\\paintdotnet.exe \"%1\""
+@="C:\\Users\\User\\scoop\\apps\\paint.net\\current\\paintdotnet.exe \"%1\""
