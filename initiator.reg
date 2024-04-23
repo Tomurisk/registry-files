@@ -1,4 +1,4 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Classes\Applications\initiator.bat\DefaultIcon]
-@="C:\\Users\\User\\Important\\Scripts\\Xournal++\\icon.ico"
+@="C:\\Users\\User\\Programs\\Xournal++\\bin\\xournalpp.exe"
