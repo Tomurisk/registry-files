@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Applications\override.bat\shell\open\command]
+@="\"C:\\Users\\User\\override.bat\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Applications\override.bat\DefaultIcon]
+@="C:\\Windows\\system32\\imageres.dll,100"
+
+[HKEY_CURRENT_USER\Software\Classes\.doc\OpenWithList\override.bat]
+@=""
+
+[HKEY_CURRENT_USER\Software\Classes\.ppt\OpenWithList\override.bat]
+@=""
+
+[HKEY_CURRENT_USER\Software\Classes\.xls\OpenWithList\override.bat]
+@=""
