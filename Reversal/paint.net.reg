@@ -1,3 +1,4 @@
 Windows Registry Editor Version 5.00
 
+; Parent keys can be removed, last child selected just in case of unexpected impact
 [-HKEY_CURRENT_USER\Software\Classes\SystemFileAssociations\image\Shell\Open with paint.net]
